@@ -19,8 +19,8 @@ class Student{
 const amit = new Student('amit')
 console.log(amit);
 console.log(amit.getSecret);
-amit.setSecret= '87878'
 console.log(amit);
 
 
 
+amit.setSecret= '87878'
