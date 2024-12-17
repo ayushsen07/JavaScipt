@@ -17,7 +17,11 @@
 //  console.log(result)
 
 
+function hi(){
+    console.log('hello');
+    
+}
 
-
+console.log(hi());
 
 
