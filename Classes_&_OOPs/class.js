@@ -10,7 +10,7 @@ class Person{
     }
 }
 
-const hitesh = new Person('hitesh' , 'jaipur')
+const hitesh = new Person('hitesh' , 'jaipur')  // in this we  use perenthesis with the class name like with person but it is not a function so why ?-> because it referring ti the constuctor function thats by use this 
 const Vishwa = new Person('Vishwa' , 'Benguluru')
 console.log(new Person('ayush' , 'sehore'));
 
